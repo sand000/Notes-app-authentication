@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2bbe1491-9166-4ae5-b012-145d81274b9c",
+    "username": "c",
+    "email": "c1@gmail.com",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$U4B1ynud32ezrnb+zcNgHg$ElvoxFXJsk+r1xUmYS+GELMYmGUaDl7nADvwFpfhOZY"
+  },
+  {
+    "id": "e74f9b4a-8258-4ff4-91c9-e1c4bc9f4aed",
+    "username": "a",
+    "email": "a1@gmail.com",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$q0uPhKhIJDmEm6PZ07D6Dg$Fhjmf574siDF/ectl5GTAqnCaAR6e3qMwhJxbxyWkmA"
+  },
+  {
+    "id": "3ebe3542-89d6-4963-9c83-b9a8681c6346",
+    "username": "e",
+    "email": "e1@gmail.com",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$f2LGsAYAMrWeW0pkCKdqYw$0GvyU/rqzFQMSma2eBiuvU4jt3AMsPvO44go9iuoC2U"
+  },
+  {
+    "id": "11269f7f-21f7-4ca3-ac15-b4f1272da2d3",
+    "username": "grisaille20300",
+    "email": "kushwahasandhya68@gmail.com",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$FErbMAEzXNOryhmS4Ict8g$IRMU+nC+9HtN6ZlobGirBxViYQBTbZsltY4S47R0VAA"
+  },
+  {
+    "id": "13d49cdc-46f7-400e-8821-c8d02910c2e4",
+    "username": "g",
+    "email": "g1@gmail.com",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$ZbDLQdVGDO3Ny/cKegCsZg$QkSkpoHBGendp13pv7bJgPsR09vpWwXyDn3WxQmxOtA"
+  }
+]
