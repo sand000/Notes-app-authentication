@@ -28,5 +28,11 @@
     "username": "g",
     "email": "g1@gmail.com",
     "password": "$argon2id$v=19$m=65536,t=3,p=4$ZbDLQdVGDO3Ny/cKegCsZg$QkSkpoHBGendp13pv7bJgPsR09vpWwXyDn3WxQmxOtA"
+  },
+  {
+    "id": "57713396-9e39-4710-8421-b274c995dd8a",
+    "username": "x1",
+    "email": "x1@gmail.com",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$ccbTx24pIpGuayR+qe9Pzg$srx5Z35opEKpmCkX1r+OhffsFDjPbrXr0VDU6t3//6A"
   }
 ]
